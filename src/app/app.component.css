@@ -1,0 +1,17 @@
+/* your-component.component.css */
+
+.custom-card {
+    background-color: #f5f5f5;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 30px 30px 30px 30px;
+  }
+  
+  .custom-card mat-card-content {
+    color: #333;
+  }
+  
+  .custom-card mat-card-actions {
+    justify-content: flex-end;
+  }
+  
